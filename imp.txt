@@ -1,0 +1,16 @@
+$ - variable
+# - all arguments
+$0 - name of the script
+$1 - 1st argument
+$2 - 2nd argument
+$# - all arguments
+-eq = equal to
+-ne = not equal to
+-lt = lesser than
+-gt = greater than
+> = output to
+>> == output and then overwrite
+-d = if it is a directory
+-e = if it gives an error
+| = feeds the output of the statemen that comes before it into the input of the statement after it 
+
