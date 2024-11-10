@@ -12,7 +12,7 @@ The above video is for programs 2a to 3b
 ## Part 2- Awk Scripting
 [![Youtube Video- Part 2 Awk Scripting](https://img.youtube.com/vi/v7v66yJb3Ik/0.jpg)](https://www.youtube.com/watch?v=v7v66yJb3Ik)
 
-The above video is for program 4a to 5b
+The above video is for programs 4a to 5b
 
 
 
